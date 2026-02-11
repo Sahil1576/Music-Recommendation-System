@@ -1,0 +1,7 @@
+Python
+Pandas
+Numpy
+matplotlib
+seaborn
+scikit-learn
+NLP (TF-IDF Vectorization)
